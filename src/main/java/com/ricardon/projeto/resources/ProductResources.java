@@ -13,7 +13,7 @@ import com.ricardon.projeto.entities.Product;
 import com.ricardon.projeto.services.ProductService;
 
 @RestController
-@RequestMapping(value = "/producties")
+@RequestMapping(value = "/products")
 public class ProductResources {
 	
 	@Autowired
